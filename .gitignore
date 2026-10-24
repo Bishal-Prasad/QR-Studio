@@ -1,0 +1,16 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*~
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Node logs and caches
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
